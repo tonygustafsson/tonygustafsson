@@ -1,13 +1,7 @@
 # About me
 
-I'm working as a frontend developer, but really I do kind of everything that is interesting to me. Because of that I've experiences with frontend, backend, data analytics, network administration and more quirky interests. 🤓
+I've been into coding for 20+ years. :neckbeard: Tried a bunch of different languages, tried backand and frontend. Nowadays I tend to focus most of my time on Frontend development since it's just more fun (challenging). That means my days consists of TypeScript, JavaScript, performance optimization, accessibility, SEO, React, Svelte and bug fixing.
 
-I prefer working with JavaScript and TypeScript if I have to choose, but I've probably learned 15 languages through the years.
+The projects in my repos doesn't really reflect what I produce on a professional level. There is lots of POCs, tests, demos and just old crap. But I'm sure you could find something useful if you look long enough ;) I'm just very pro open source, and it's my philosofy that all code should be open and free. Including mine.
 
-Other interests are photography, cooking/baking, hiking, meditation, blockchains and tech overall.
-
-## What you'll find here
-
-Well, it's not like I'm proud of everything here. Most repos are proof of concepts and pure demos. But some projects are legit, that is used in production today. Nowadays I'm trying to make everything public, as a default.
-
-One of my goals is to help others out, and contribute more to existings repos, instead of running this one man show. 😇
+Other interests are photography, cooking/baking, Linux, meditation, blockchains/smart contracts and tech overall. :computer:
